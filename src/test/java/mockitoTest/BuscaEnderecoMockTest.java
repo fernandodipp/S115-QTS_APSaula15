@@ -1,3 +1,14 @@
+/*
+ * 2. Além disso, crie uma classe chamada CorreioService,
+ * que contenha o método “String buscaEndereco(String cep)”.
+ * Crie um mock dessa classe, e após realize o teste unitário,
+ * simulando o valor abaixo, com o objeto mock.
+
+CAso o usuário inserir o valor “9000000”, retornar “Porto Alegre”
+
+ */
+
+
 package mockitoTest;
 
 import static org.mockito.Mockito.when;
